@@ -23,3 +23,6 @@ Navigate -> File...   Cmd + L -> N
 
 Prettier	Cmd + Opt + Ctrl + P
 
+### Ace Jump Lite
+
+Activate AceJump mode	^L
