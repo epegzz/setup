@@ -1,28 +1,44 @@
 
-The following global shortcuts have to be disabled in MacOS:
-
-Ctrl + Left (Mission Control -> Move left a space)
-Ctrl + Right (Mission Control -> Move right a space)
-
 ### Splitter
 
-Goto Next Splitter       Cmd + Opt + S -> Right
-Goto Previous Splitter   Cmd + Opt + S -> Left
-Split Horizontally       Cmd + Opt + S -> v
-Split Vertically         Cmd + Opt + S -> h
+| Action                                    | Shortcut | Second Stroke |
+|:------------------------------------------|:---------|:--------------|
+| Goto Next Splitter	                    | ⌘⌥S    | →             |
+| Goto Previous Splitter	                | ⌘⌥S    | ←            |
+| Split Horizontally                        | ⌘⌥S    | V             |
+| Split Vertically                          | ⌘⌥S    | H             |
+
 
 ### Navigation
 
-Backward     Cmd + Opt + Left
-Forward         Cmd + Opt + Right
+| Action                                    | Shortcut | Second Stroke |
+|:------------------------------------------|:---------|:--------------|
+| Navigate -> File...	                    | ⌘N      | N             |
+| Show Recent Files   	                    | ⌘N      | R             |
+| Forward	                                | ⌘⌥←   |               |
+| Backward	                                | ⌘⌥→    |               |
 
-Show Recent Files     Cmd + N -> R
-Navigate -> File...   Cmd + L -> N
 
 ### Prettier
 
-Prettier	Cmd + Opt + Ctrl + P
+| Action                                    | Shortcut | Second Stroke |
+|:------------------------------------------|:---------|:--------------|
+| Activate AceJump mode	                    | ⌃⌘⌥P   |               |
+
 
 ### Ace Jump
 
-Activate AceJump mode	⌥M
+| Action                                    | Shortcut | Second Stroke |
+|:------------------------------------------|:---------|:--------------|
+| Activate AceJump mode	                    | ⌥M      |               |
+
+
+---
+
+
+**The following global shortcuts have to be disabled in MacOS:**
+
+|  Action                                   | Shortcut |
+|:------------------------------------------|:---------|
+| Mission Control -> Move left a space	    | ⌃←      |
+| Mission Control -> Move right a space	    | ⌃→       |
