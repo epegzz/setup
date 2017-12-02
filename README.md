@@ -9,3 +9,12 @@ Add the following to `~/.zshrc` in order to allow completion of git branch names
 zstyle ':vcs_info:*' enable git
 ```
 
+
+## Software
+
+| Name     | Comment                                                  |
+|:---------|:---------------------------------------------------------|
+| Alfred   |                                                          |
+| Dash     | Accessed via Alfred Workflow                             |
+| Intellij |                                                          |
+| iTerm2   |                                                          |
