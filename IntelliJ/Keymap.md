@@ -4,8 +4,8 @@
 
 | Action                                    | Shortcut | Second Stroke |
 |:------------------------------------------|:---------|:--------------|
-| Goto Next Splitter	                    | ⌘⌥S    | →             |
-| Goto Previous Splitter	                | ⌘⌥S    | ←            |
+| Goto Next Splitter	                      | ⌘⌥S    | →             |
+| Goto Previous Splitter	                  | ⌘⌥S    | ←            |
 | Split Horizontally                        | ⌘⌥S    | V             |
 | Split Vertically                          | ⌘⌥S    | H             |
 
@@ -14,10 +14,11 @@
 
 | Action                                    | Shortcut | Second Stroke |
 |:------------------------------------------|:---------|:--------------|
-| Navigate -> File...	                    | ⌘N      | N             |
+| Navigate -> File...	                      | ⌘N      | N             |
 | Show Recent Files   	                    | ⌘N      | R             |
-| Forward	                                | ⌘⌥←   |               |
+| Forward	                                  | ⌘⌥←   |               |
 | Backward	                                | ⌘⌥→    |               |
+| Find Word at Caret                        | ⌃⌘⌥F   |               |
 
 
 ### Prettier
