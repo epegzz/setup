@@ -18,3 +18,4 @@ zstyle ':vcs_info:*' enable git
 | Dash     | Accessed via Alfred Workflow                             |
 | Intellij |                                                          |
 | iTerm2   |                                                          |
+| jq       | https://github.com/stedolan/jq                           | 
