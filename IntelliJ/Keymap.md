@@ -20,6 +20,11 @@
 | Backward	                                | ⌘⌥→    |               |
 | Find Word at Caret                        | ⌃⌘⌥F   |               |
 
+### Editor
+
+| Action                                    | Shortcut | Second Stroke |
+|:------------------------------------------|:---------|:--------------|
+| Help -> Find Action...                    | ⌘N      | S             |
 
 ### Prettier
 
