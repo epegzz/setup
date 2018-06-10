@@ -1,8 +1,8 @@
-macOS Keyboard Shortcuts
+# macOS Keyboard Shortcuts
+
+## All Applications
 
 ### Zooming
-
-App Shortcuts > All Applications
 
 | Action                                    | Shortcut | Second Stroke |
 |:------------------------------------------|:---------|:--------------|
