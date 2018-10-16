@@ -11,6 +11,7 @@ The most frequently used commands
 | Show Recent Files   	                    | ⌘N      | R             |
 | Navigate -> Symbol...	                    | ⌘N      | G             |
 | Refactor -> Rename...	                    | ⌘N      | L             |
+| Find -> Find Usages	                      | ⌘N      | B             |
 
 
 ### Navigation
