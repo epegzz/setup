@@ -1,44 +1,25 @@
 # Keymap
 
-### Splitter
+### Quick Control
+
+The most frequently used commands
 
 | Action                                    | Shortcut | Second Stroke |
 |:------------------------------------------|:---------|:--------------|
-| Goto Next Splitter	                      | ⌘⌥S    | →             |
-| Goto Previous Splitter	                  | ⌘⌥S    | ←            |
-| Split Horizontally                        | ⌘⌥S    | V             |
-| Split Vertically                          | ⌘⌥S    | H             |
+| Help -> Find Action...                    | ⌘N      | S             |
+| Navigate -> File...	                      | ⌘N      | N             |
+| Show Recent Files   	                    | ⌘N      | R             |
+| Navigate -> Symbol...	                    | ⌘N      | G             |
+| Refactor -> Rename...	                    | ⌘N      | L             |
 
 
 ### Navigation
 
 | Action                                    | Shortcut | Second Stroke |
 |:------------------------------------------|:---------|:--------------|
-| Navigate -> File...	                      | ⌘N      | N             |
-| Show Recent Files   	                    | ⌘N      | R             |
 | Forward	                                  | ⌘⌥←   |               |
 | Backward	                                | ⌘⌥→    |               |
 | Find Word at Caret                        | ⌃⌘⌥F   |               |
-
-### Editor
-
-| Action                                    | Shortcut | Second Stroke |
-|:------------------------------------------|:---------|:--------------|
-| Help -> Find Action...                    | ⌘N      | S             |
-
-### Prettier
-
-| Action                                    | Shortcut | Second Stroke |
-|:------------------------------------------|:---------|:--------------|
-| Activate AceJump mode	                    | ⌃⌘⌥P   |               |
-
-
-### Ace Jump
-
-| Action                                    | Shortcut | Second Stroke |
-|:------------------------------------------|:---------|:--------------|
-| Activate AceJump mode	                    | ⌥M      |               |
-
 
 ---
 
